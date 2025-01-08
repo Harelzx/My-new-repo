@@ -81,7 +81,7 @@ public class ClientConsole implements ChatIF
       System.out.println
         ("Unexpected error while reading from console!");
       System.out.println
-      ("Unexpected error while reading from console!");
+      ("fuck you");
     }
   }
 
